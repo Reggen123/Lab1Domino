@@ -1,0 +1,13 @@
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\bin\Debug\DominoLab1.exe.config
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\bin\Debug\DominoLab1.exe
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\bin\Debug\DominoLab1.pdb
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\bin\Debug\Prog2Lab1.dll
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\bin\Debug\Prog2Lab1.pdb
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.csproj.AssemblyReference.cache
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.Form1.resources
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.Properties.Resources.resources
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.csproj.GenerateResource.cache
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.csproj.CoreCompileInputs.cache
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.csproj.CopyComplete
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.exe
+C:\Users\belin\source\repos\DominoLab1\DominoLab1\obj\Debug\DominoLab1.pdb
