@@ -1,0 +1,6 @@
+C:\Users\belin\source\repos\Prog2Lab1\Prog2Lab1\bin\Debug\Prog2Lab1.dll
+C:\Users\belin\source\repos\Prog2Lab1\Prog2Lab1\bin\Debug\Prog2Lab1.pdb
+C:\Users\belin\source\repos\Prog2Lab1\Prog2Lab1\obj\Debug\Prog2Lab1.csproj.AssemblyReference.cache
+C:\Users\belin\source\repos\Prog2Lab1\Prog2Lab1\obj\Debug\Prog2Lab1.csproj.CoreCompileInputs.cache
+C:\Users\belin\source\repos\Prog2Lab1\Prog2Lab1\obj\Debug\Prog2Lab1.dll
+C:\Users\belin\source\repos\Prog2Lab1\Prog2Lab1\obj\Debug\Prog2Lab1.pdb
